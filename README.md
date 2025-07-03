@@ -1,6 +1,8 @@
 # johnson_neyman
 Calculate Johnson-Neyman intervals for 2-way interactions Use johnson_neyman (interactions) With (In) R Software
 
+https://www.youtube.com/watch?v=WGzIYPqsDwo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
